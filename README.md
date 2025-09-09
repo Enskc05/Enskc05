@@ -2,24 +2,16 @@
 
 ## 🔐 Cybersecurity & 💻 Fullstack Developer  
 
-Hello! I'm **Enes**, a professional dedicated to building **secure, scalable, and high-performance software systems**.  
-I combine **cybersecurity expertise** with **fullstack development skills** to deliver solutions that are both functional and resilient.  
+Hello! I'm **Enes**, helping startups and enterprises **secure, scale, and optimize their software systems**.  
+I combine **cybersecurity expertise** with **fullstack development skills** to deliver solutions that are **robust, maintainable, and resilient**.  
 
 ---
 
-### 🔹 Core Expertise
-**Cybersecurity**
-- Web & microservice security audits  
-- API Gateway security (auth, rate limiting, logging)  
-- Penetration testing & vulnerability assessment  
-- Secure logging & monitoring  
-
-**Fullstack Development**
-- **Backend:** Java (Spring Boot, Spring Cloud), Kotlin  
-- **Frontend:** React, Tailwind  
-- **Mobile:** Kotlin Android  
-- **Databases:** PostgreSQL, MongoDB, Redis  
-- **DevOps:** Docker, CI/CD pipelines  
+### 🚀 Top Skills
+| 🔐 Security | ⚡ Performance | 💻 Fullstack | 📊 Data | 🐳 DevOps |
+|-------------|----------------|--------------|--------|-----------|
+| Security audits & pentesting | Scalable backend design | React, Tailwind, Kotlin | PostgreSQL, MongoDB | Docker, CI/CD |
+| API Gateway security & logging | Optimization & monitoring | Java, Spring Boot | Redis, Caching | Automated deployment |
 
 ---
 
@@ -32,19 +24,12 @@ I combine **cybersecurity expertise** with **fullstack development skills** to d
 
 ---
 
-### 🔹 Services I Provide
-- Designing **secure microservice architectures**  
-- Building **scalable backend APIs**  
-- Developing **business-focused frontend interfaces**  
-- Implementing **auth flows & structured logging**  
-- Enhancing existing systems for **security & performance**  
-
----
-
-### 🔹 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-ko%C3%A7-16698728b/) 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Enskc05) 
-[![Gmail](https://img.shields.io/badge/Email-kenes7667@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kenes7667@gmail.com)
+### 💼 Services I Provide
+- Design **secure microservice architectures**  
+- Build **scalable backend APIs**  
+- Develop **business-focused frontend interfaces**  
+- Implement **auth flows & structured logging**  
+- Optimize existing systems for **security & performance**  
 
 ---
 
@@ -54,4 +39,14 @@ I combine **cybersecurity expertise** with **fullstack development skills** to d
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enskc05&layout=compact&theme=dark&hide_border=true" width="48%">
 </div>
 
+---
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-ko%C3%A7-16698728b/) 
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Enskc05) 
+[![Gmail](https://img.shields.io/badge/Email-kenes7667@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kenes7667@gmail.com)
+
+---
+
 💡 *Professional focus:* delivering **secure, reliable, and scalable solutions** at the intersection of cybersecurity and fullstack development.
+
