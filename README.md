@@ -16,11 +16,11 @@ I combine **cybersecurity expertise** with **fullstack development skills** to d
 ---
 
 ### 🔹 Tech Stack (Animated & Light/Dark Friendly)
-![Java](https://camo.githubusercontent.com/f8aa.../Java-animated.gif)
-![Spring](https://camo.githubusercontent.com/f8aa.../Spring-animated.gif)
-![Kotlin](https://camo.githubusercontent.com/f8aa.../Kotlin-animated.gif)
-![React](https://camo.githubusercontent.com/f8aa.../React-animated.gif)
-![Docker](https://camo.githubusercontent.com/f8aa.../Docker-animated.gif)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=white&animation=glow) 
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=white&animation=glow) 
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=white&animation=glow) 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=white&animation=glow) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=white&animation=glow)
 
 ---
 
