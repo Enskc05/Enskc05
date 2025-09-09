@@ -22,7 +22,15 @@ My background combines **cybersecurity expertise** with **fullstack development*
   - **DevOps:** Docker, Docker Compose, CI/CD pipelines  
 
 ---
+---
+### Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+---
 ### How I Can Contribute
 - Design and development of secure, microservice-based systems  
 - Building backend services and APIs with a focus on scalability and maintainability  
