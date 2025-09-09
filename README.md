@@ -15,28 +15,27 @@ I combine **cybersecurity expertise** with **fullstack development skills** to d
 
 ---
 
-### 🔹 Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🔹 Tech Stack (Animated & Light/Dark Friendly)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=white&animation=glow)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=white&animation=glow)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=white&animation=glow)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=white&animation=glow)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=white&animation=glow)
 
 ---
 
-### 💼 Services I Provide
-- Design **secure microservice architectures**  
-- Build **scalable backend APIs**  
-- Develop **business-focused frontend interfaces**  
-- Implement **auth flows & structured logging**  
-- Optimize existing systems for **security & performance**  
+### 💻 Mini Portfolio (Projects)
+| Project | Description | Demo / Repo |
+|---------|-------------|------------|
+| **Cyber Audit Tool** | Web application for automated security audits 
+| **Spring Cloud Microservices** | High-performance microservices architecture with secure API Gateway 
 
 ---
 
 ### 📊 GitHub Stats
-<div style="display:flex; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Enskc05&show_icons=true&theme=dark&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enskc05&layout=compact&theme=dark&hide_border=true" width="48%">
+<div style="display:flex; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Enskc05&show_icons=true&theme=radical&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enskc05&layout=compact&theme=radical&hide_border=true" width="48%">
 </div>
 
 ---
@@ -49,4 +48,3 @@ I combine **cybersecurity expertise** with **fullstack development skills** to d
 ---
 
 💡 *Professional focus:* delivering **secure, reliable, and scalable solutions** at the intersection of cybersecurity and fullstack development.
-
