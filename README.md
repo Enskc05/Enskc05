@@ -35,7 +35,7 @@ My background combines **cybersecurity expertise** with **fullstack development*
 ### Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/enes-ko%C3%A7-16698728b/)  
 - [GitHub](https://github.com/Enskc05)  
-- [Mail](kenes7667@gmail.com)
+- kenes7667@gmail.com
 
 ---
 💡 My professional focus: delivering **secure, reliable, and scalable solutions** at the intersection of cybersecurity and fullstack development.
