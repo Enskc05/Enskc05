@@ -1,5 +1,3 @@
-![Enes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enskc05&show_icons=true&theme=dark&hide_border=true)
-
 # Enes Koç  
 
 ## 🔐 Cybersecurity & 💻 Fullstack Developer  
@@ -46,8 +44,10 @@ My background combines **cybersecurity expertise** with **fullstack development*
 ### 🔹 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-ko%C3%A7-16698728b/)  
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Enskc05)  
-📧 **kenes7667@gmail.com**
+[![Gmail](https://img.shields.io/badge/Email-kenes7667@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kenes7667@gmail.com)
 
 ---
+![Enes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enskc05&show_icons=true&theme=dark&hide_border=true)
+
 
 💡 *Professional focus:* delivering **secure, reliable, and scalable solutions** at the intersection of cybersecurity and fullstack development.
