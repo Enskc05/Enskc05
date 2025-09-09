@@ -1,13 +1,4 @@
 ---
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Enes%20Ko%C3%A7&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20%26%20Fullstack%20Developer&descAlignY=55&descSize=18" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=2000&pause=800&color=00D9FF,6366F1,8B5CF6,EC4899,EF4444&multiline=true&center=true&vCenter=true&random=false&width=600&height=200&lines=%F0%9F%94%90+Building+Secure+Systems;%F0%9F%92%BB+Fullstack+Web+%26+Mobile;%F0%9F%9A%80+Cloud+%26+Microservices;%F0%9F%93%9A+DevOps+%26+CI%2FCD" alt="Animated Typing" />
-</div>
-
----
 
  **About Me**
 - 🎓 **Cybersecurity & Fullstack Developer**  
@@ -21,9 +12,6 @@
 <br clear="both">
 
 ---
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **Tech Arsenal**
-
 ### 🚀 Programming Languages & Frameworks
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,kotlin,react,docker&theme=dark" height="60"/>
