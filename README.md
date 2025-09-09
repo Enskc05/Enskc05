@@ -1,6 +1,6 @@
 # Enes Koç  
 
-## Cybersecurity Expert & Fullstack Developer  
+## Cybersecurity & Fullstack Developer  
 
 Hello, I'm Enes — a professional focused on building **secure, scalable, and high-performance software systems**.  
 My background combines **cybersecurity expertise** with **fullstack development**, allowing me to design and implement solutions that are not only functional but also resilient against modern threats.  
