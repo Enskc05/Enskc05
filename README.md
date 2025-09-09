@@ -2,24 +2,24 @@
 
 ## 🔐 Cybersecurity & 💻 Fullstack Developer  
 
-Hello, I'm Enes — a professional dedicated to building **secure, scalable, and high-performance software systems**.  
-My background combines **cybersecurity expertise** with **fullstack development**, enabling me to deliver solutions that are not only functional but also resilient against modern threats.  
+Hello! I'm **Enes**, a professional dedicated to building **secure, scalable, and high-performance software systems**.  
+I combine **cybersecurity expertise** with **fullstack development skills** to deliver solutions that are both functional and resilient.  
 
 ---
 
 ### 🔹 Core Expertise
-- **Cybersecurity**
-  - Security audits for web applications and microservice architectures  
-  - API Gateway security (authentication, authorization, rate limiting, logging)  
-  - Penetration testing & vulnerability assessment  
-  - Secure logging and monitoring strategies  
+**Cybersecurity**
+- Web & microservice security audits  
+- API Gateway security (auth, rate limiting, logging)  
+- Penetration testing & vulnerability assessment  
+- Secure logging & monitoring  
 
-- **Fullstack Development**
-  - **Backend:** Java (Spring Boot, Spring Cloud), Kotlin  
-  - **Frontend:** React, Tailwind  
-  - **Mobile:** Kotlin Android  
-  - **Databases:** PostgreSQL, MongoDB, Redis  
-  - **DevOps:** Docker, Docker Compose, CI/CD pipelines  
+**Fullstack Development**
+- **Backend:** Java (Spring Boot, Spring Cloud), Kotlin  
+- **Frontend:** React, Tailwind  
+- **Mobile:** Kotlin Android  
+- **Databases:** PostgreSQL, MongoDB, Redis  
+- **DevOps:** Docker, CI/CD pipelines  
 
 ---
 
@@ -33,23 +33,25 @@ My background combines **cybersecurity expertise** with **fullstack development*
 ---
 
 ### 🔹 Services I Provide
-- Designing and developing **secure, microservice-based systems**  
-- Building backend services and APIs with scalability and maintainability in mind  
-- Implementing **business-focused frontend interfaces** using React  
-- Delivering **authentication/authorization flows** and structured logging systems  
-- Improving existing applications with **security and performance enhancements**  
+- Designing **secure microservice architectures**  
+- Building **scalable backend APIs**  
+- Developing **business-focused frontend interfaces**  
+- Implementing **auth flows & structured logging**  
+- Enhancing existing systems for **security & performance**  
 
 ---
 
 ### 🔹 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-ko%C3%A7-16698728b/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Enskc05)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-ko%C3%A7-16698728b/) 
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Enskc05) 
 [![Gmail](https://img.shields.io/badge/Email-kenes7667@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kenes7667@gmail.com)
 
 ---
-![Enes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enskc05&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Enskc05&layout=compact&theme=dark&hide_border=true)
 
-
+### 📊 GitHub Stats
+<div style="display:flex; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Enskc05&show_icons=true&theme=dark&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enskc05&layout=compact&theme=dark&hide_border=true" width="48%">
+</div>
 
 💡 *Professional focus:* delivering **secure, reliable, and scalable solutions** at the intersection of cybersecurity and fullstack development.
