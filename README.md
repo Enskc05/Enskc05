@@ -1,50 +1,80 @@
-# Enes Koç  
+---
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Enes%20Ko%C3%A7&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20%26%20Fullstack%20Developer&descAlignY=55&descSize=18" />
+</div>
 
-## 🔐 Cybersecurity & 💻 Fullstack Developer  
-
-Hello! I'm **Enes**, helping startups and enterprises **secure, scale, and optimize their software systems**.  
-I combine **cybersecurity expertise** with **fullstack development skills** to deliver solutions that are **robust, maintainable, and resilient**.  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=2000&pause=800&color=00D9FF,6366F1,8B5CF6,EC4899,EF4444&multiline=true&center=true&vCenter=true&random=false&width=600&height=200&lines=%F0%9F%94%90+Building+Secure+Systems;%F0%9F%92%BB+Fullstack+Web+%26+Mobile;%F0%9F%9A%80+Cloud+%26+Microservices;%F0%9F%93%9A+DevOps+%26+CI%2FCD" alt="Animated Typing" />
+</div>
 
 ---
 
-### 🚀 Top Skills
-| 🔐 Security | ⚡ Performance | 💻 Fullstack | 📊 Data | 🐳 DevOps |
-|-------------|----------------|--------------|--------|-----------|
-| Security audits & pentesting | Scalable backend design | React, Tailwind, Kotlin | PostgreSQL, MongoDB | Docker, CI/CD |
-| API Gateway security & logging | Optimization & monitoring | Java, Spring Boot | Redis, Caching | Automated deployment |
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **About Me**
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+- 🎓 **Cybersecurity & Fullstack Developer**  
+- 🔐 **Security audits, API Gateway security, Pen testing**  
+- 💻 **Java, Kotlin, Spring Boot, React, Tailwind**  
+- 📱 **Mobile development (Kotlin Android)**  
+- 🐘 **PostgreSQL, MongoDB, Redis**  
+- 🐳 **Docker, Docker Compose, CI/CD pipelines**  
+- 🌐 **Building secure, scalable, and high-performance software systems**  
+
+<br clear="both">
 
 ---
 
-### 🔹 Tech Stack (Animated & Light/Dark Friendly)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=white&animation=glow) 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=white&animation=glow) 
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=white&animation=glow) 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=white&animation=glow) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=white&animation=glow)
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **Tech Arsenal**
+
+### 🚀 Programming Languages & Frameworks
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,react,docker&theme=dark" height="60"/>
+</div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=500&color=61DAFB,F89820,3776AB,7F52FF,478CBF&center=true&vCenter=true&width=700&lines=Java+%7C+Backend+Mastery;Spring+%7C+Microservices;Kotlin+%7C+Android;React+%7C+Frontend;Docker+%7C+Containers+%26+CI%2FCD" alt="Programming Languages Animation" />
+</div>
 
 ---
 
 ### 💻 Mini Portfolio (Projects)
 | Project | Description | Demo / Repo |
 |---------|-------------|------------|
-| **Cyber Audit Tool** | Web application for automated security audits 
-| **Spring Cloud Microservices** | High-performance microservices architecture with secure API Gateway 
+| **Cyber Audit Tool** | Web application for automated security audits | [GitHub](https://github.com/Enskc05) |
+| **Spring Cloud Microservices** | High-performance microservices architecture with secure API Gateway | [GitHub](https://github.com/Enskc05) |
 
 ---
 
 ### 📊 GitHub Stats
-<div style="display:flex; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Enskc05&show_icons=true&theme=radical&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enskc05&layout=compact&theme=radical&hide_border=true" width="48%">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Enskc05&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enskc05&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+<div align="center">
+  <img src="https://git-hub-streak-stats.vercel.app?user=Enskc05&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-ko%C3%A7-16698728b/) 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Enskc05) 
-[![Gmail](https://img.shields.io/badge/Email-kenes7667@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kenes7667@gmail.com)
+<div align="center">
+  <a href="https://github.com/Enskc05">
+    <img src="https://img.shields.io/badge/GitHub-Enes%20Ko%C3%A7-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/enes-ko%C3%A7-16698728b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Enes%20Ko%C3%A7-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kenes7667@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-kenes7667@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-💡 *Professional focus:* delivering **secure, reliable, and scalable solutions** at the intersection of cybersecurity and fullstack development.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Always+learning+new+tech!;%F0%9F%92%A1+Open+to+collaboration!;%F0%9F%8C%9F+Building+the+future+one+commit+at+a+time!" alt="Footer Typing" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+</div>
