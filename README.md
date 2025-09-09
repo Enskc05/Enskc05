@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="Enes Koç - Siber Güvenlik & Yazılım Geliştirme.png" alt="Enes Koç - Secure & Scalable Software Development" />
-</p>
-
-
-
-
 
 # Enes Koç  
 
